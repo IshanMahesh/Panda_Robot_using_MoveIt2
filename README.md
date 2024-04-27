@@ -21,7 +21,8 @@ ENPM661 Project4
 
 ##### Video Links
 
-1: Pick and Place:
-2: MoveIt Setup: 
+1: Pick and Place: (https://drive.google.com/file/d/1yrx5IsHrSRJ39nk154X0rZuTuHsyVEKb/view?usp=sharing)
+2: MoveIt Setup: https://drive.google.com/file/d/1V8nR3ZMGf1diOobGOmMqjVqLNi0Luadm/view?usp=sharing
+
 
 
